@@ -1,0 +1,1 @@
+# This code computes approximate solution for a plane strain (or KGD) hydraulic fracture. You need to run KGD_main.m in either Matlab or Octave. Relevant publication for this code is https://link.springer.com/article/10.1007/s10704-017-0192-4.
